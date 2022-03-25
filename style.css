@@ -1,0 +1,18 @@
+*{
+margin:0;
+padding:0;
+font-famlily:snas fari;
+}
+body{
+background-image:url(banner1.jpg)
+  background-size: cover;
+}
+.continer{
+
+position:relative;
+top:15rem;
+left:30rem;
+bottom:20rem;
+right:20rem;
+
+}
